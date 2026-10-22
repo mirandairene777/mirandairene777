@@ -1,5 +1,31 @@
 <div align="center">
 
+<p align="center">
+  <img
+    src="./assets/field-journal-banner.png"
+    width="100%"
+    alt="Irene's Field Journal"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./assets/pixel-explorer.gif"
+    width="640"
+    alt="A pixel-art explorer walking through ancient ruins"
+  />
+</p>
+
+<p align="center">
+  <b>EXPLORE</b> · <b>DISCOVER</b> · <b>WALK BY FAITH</b>
+</p>
+
+<p align="center">
+  “Trust in the LORD with all your heart...”
+  <br />
+  Proverbs 3:5–6 (NLT)
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Tiny5&size=36&duration=2500&pause=900&color=F74FE7&center=true&vCenter=true&width=700&height=65&lines=Hi!+I'm+Irene;Welcome+to+my+Field+Journal;Exploring+history+%26+technology;Trusting+Jesus+along+the+way)](https://git.io/typing-svg)
 
 # ✦ IRENE'S FIELD JOURNAL ✦
