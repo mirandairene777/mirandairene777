@@ -8,6 +8,19 @@
   />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Tiny5&size=36&duration=2500&pause=900&color=F74FE7&center=true&vCenter=true&width=700&height=65&lines=Hi!+I'm+Irene;Welcome+to+my+Field+Journal;Exploring+history+%26+technology;Trusting+Jesus+along+the+way)](https://git.io/typing-svg)
+
+# ✦ IRENE'S FIELD JOURNAL ✦
+
+**✝️ Follower of Jesus Christ · 💻 CS Student · 🗺️ Explorer at Heart**
+
+*An archive of faith, forgotten worlds, and things built with code.*
+
+[🌐 Portfolio](https://irenemiranda.dev) · [📂 Repositories](https://github.com/mirandairene777?tab=repositories)
+
+`FIELD NOTES: 001` · `LOCATION: THE DIGITAL FRONTIER` · `STATUS: EXPLORING`
+
+</div>
 <p align="center">
   <img
     src="./assets/pixel-explorer.gif"
@@ -25,21 +38,6 @@
   <br />
   Proverbs 3:5–6 (NLT)
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Tiny5&size=36&duration=2500&pause=900&color=F74FE7&center=true&vCenter=true&width=700&height=65&lines=Hi!+I'm+Irene;Welcome+to+my+Field+Journal;Exploring+history+%26+technology;Trusting+Jesus+along+the+way)](https://git.io/typing-svg)
-
-# ✦ IRENE'S FIELD JOURNAL ✦
-
-**✝️ Follower of Jesus Christ · 💻 CS Student · 🗺️ Explorer at Heart**
-
-*An archive of faith, forgotten worlds, and things built with code.*
-
-[🌐 Portfolio](https://irenemiranda.dev) · [📂 Repositories](https://github.com/mirandairene777?tab=repositories)
-
-`FIELD NOTES: 001` · `LOCATION: THE DIGITAL FRONTIER` · `STATUS: EXPLORING`
-
-</div>
-
 ---
 
 ## 🧭 `01 // THE EXPLORER`
