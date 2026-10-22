@@ -1,132 +1,176 @@
-<!--
-  IRENE'S FIELD JOURNAL
-  Theme: pixel-art archaeology / retro adventure / Christian faith
-  Replace any placeholder links before publishing.
--->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Tiny5&size=36&duration=2500&pause=1000&color=F74FE7&center=true&vCenter=true&width=700&height=65&lines=Hi!+I'm+Irene;Welcome+to+my+Field+Journal;Unearthing+ideas+with+code;Trusting+God+along+the+way)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Tiny5&size=36&duration=2500&pause=900&color=F74FE7&center=true&vCenter=true&width=700&height=65&lines=Hi!+I'm+Irene;Welcome+to+my+Field+Journal;Exploring+history+%26+technology;Trusting+Jesus+along+the+way)](https://git.io/typing-svg)
 
-**✦ IRENE'S FIELD JOURNAL ✦**
+# ✦ IRENE'S FIELD JOURNAL ✦
 
-*An explorer's archive of faith, history, and things built with code.*
+**✝️ Follower of Jesus Christ · 💻 CS Student · 🗺️ Explorer at Heart**
 
-[Portfolio](https://irenemiranda.dev) · [GitHub](https://github.com/mirandairene777)
+*An archive of faith, forgotten worlds, and things built with code.*
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[🌐 Portfolio](https://irenemiranda.dev) · [📂 Repositories](https://github.com/mirandairene777?tab=repositories)
+
+`FIELD NOTES: 001` · `LOCATION: THE DIGITAL FRONTIER` · `STATUS: EXPLORING`
 
 </div>
 
-## 🧭  `01. THE EXPLORER`
+---
 
-Hi, I'm Irene! I'm a Computer Science student, a follower of Jesus Christ, and an explorer at heart.
+## 🧭 `01 // THE EXPLORER`
 
-I love discovering how things work, exploring stories from the past, and creating things with technology. I'm learning to build software, experiment with game development, and turn ideas into meaningful projects.
+Hey, I'm Irene!
 
-Above all, I want my life and the things I create to reflect the goodness of God.
+I'm a Computer Science student who loves learning, exploring ideas, and creating things with technology. Outside the world of code, I'm fascinated by history, archaeology, ancient places, and the stories that survive through time.
+
+But the most important part of my journey is my faith in Jesus Christ.
+
+I want to use what I learn to create things that are useful, meaningful, and helpful to others. I'm still growing as a developer, and I want every step of that journey to reflect the One I follow.
 
 - ✝️ **My foundation:** Jesus Christ.
-- 🗺️ **My curiosity:** History, archaeology, exploration, and the stories behind things.
-- 💻 **My current path:** Computer Science, software development, databases, and game development.
-- 🌱 **My mission:** Keep learning, create with purpose, and use what God has given me to serve others.
+- 🏺 **My curiosity:** History, archaeology, and exploration.
+- 💻 **My craft:** Software development and game creation.
+- 🌱 **My goal:** Keep learning and use my abilities with purpose.
 
-> "Trust in the LORD with all your heart"
->
-> — Proverbs 3:5, NLT
-
-*My journey isn't always clear, but I want to keep acknowledging God in every step.*
-
-## 📜 `02. THE LIVING WORD`
+## 📜 `02 // THE LIVING WORD`
 
 <div align="center">
 
 ### Proverbs 3:5–6 · NLT
 
-*Trust in the Lord with all your heart.*
+*"Trust in the LORD with all your heart"*
+
+**— Proverbs 3:5**
 
 </div>
 
-This is the Scripture I want to carry with me through my journey.
+This is the Scripture I want to carry through every season of my life.
 
-I don't have everything figured out. I'm still learning, growing, and discovering where God is leading me. I want to trust Him beyond what I can understand and acknowledge Him in my decisions, my education, my future, and the work of my hands.
+I don't know everything about the future, and I don't always understand the path ahead. But I want to keep trusting God, acknowledging Him in my decisions, and allowing His Word to guide me.
 
-My goal isn't simply to become a successful developer. I want to become someone who follows Jesus faithfully and uses her abilities with purpose.
+My ambition isn't just to become a developer. I want to follow Jesus faithfully and use the abilities He has given me to serve others.
 
-## 🕯️ `03. MY TESTIMONY — FROM DARKNESS TO LIGHT`
+---
 
-I didn't come to Jesus with a perfect past or a life that had everything figured out.
+## 🕯️ `03 // MY TESTIMONY`
 
-I carried deep pain from childhood, struggled with emptiness, and went through seasons when life felt incredibly heavy. I experienced family difficulties, the responsibility of caring for my father through serious illness, and the grief of losing him.
+### From darkness to light
 
-In some of my darkest moments, I found myself crying and praying to God. Through suffering and loss, my relationship with Jesus became deeply personal. When I felt alone, I found comfort in His presence. When I struggled to see a purpose for my life, I began learning to surrender it to Him.
+My story hasn't been an easy one.
 
-Losing my father was one of the hardest things I've ever experienced. But it also became a turning point in my faith. I chose to give my life to God, and I began learning what it means to follow Christ, forgive, and trust Him even when I don't understand His ways.
+I grew up carrying pain from childhood experiences and family difficulties. There were seasons when I struggled with emptiness, hopelessness, and questions about my purpose.
 
-My journey is still ongoing. I'm not sharing this because I have a perfect life, but because I want to testify to the grace and goodness of Jesus Christ.
+Later, while caring for my father through serious illness, I experienced exhaustion, grief, and some of the hardest moments of my life. In those dark seasons, I found myself turning to God in prayer.
 
-**Jesus is more than a part of my story. He is the One I want my life to point toward.**
+When I lost my father, my life changed in ways I couldn't have imagined. Through grief and surrender, my relationship with Jesus became deeply personal. I chose to give my life to God, and I began learning to trust Him even when I couldn't understand what was happening.
+
+Forgiveness wasn't easy, and healing wasn't something I could simply switch on. But I am grateful for the work God has done in my life, and I want to keep growing in His grace.
+
+**Jesus is not just a chapter in my story. He is the One I want my whole life to point toward.**
 
 <details>
-<summary>📖 A little more from my journey</summary>
+<summary>📖 A note for anyone going through a dark season</summary>
 
-One of the things I've learned is that faith doesn't mean life will always be easy. Sometimes we pray for a particular outcome, and things unfold differently from what we hoped for.
+If life feels heavy right now, you don't have to pretend that everything is okay.
 
-I'm learning that trusting God means bringing Him my grief, questions, fears, and hopes — not only when things are going well, but also when they don't.
+I know what it feels like to struggle, to grieve, and to wonder what comes next. My testimony isn't that life suddenly became perfect. It's that I found a reason to keep turning to Jesus.
 
-I also know that healing and forgiveness can be difficult journeys. I'm grateful for what God has done in my life, and I want to keep growing in His grace.
+You are welcome here, and I hope my story encourages you to seek Him.
 
 </details>
 
-*If you're going through a difficult season, I hope you know that you don't have to pretend to be okay. You are welcome here.*
-
-## ✝️ `04. THE GOOD NEWS`
+## ✝️ `04 // THE GOOD NEWS`
 
 ### The Gospel of Jesus Christ
 
-The heart of my faith is the good news of what Jesus Christ has done for us.
+The heart of my faith is the good news of Jesus.
 
-- **God loves us.** We were created for a relationship with Him.
-- **We have all sinned.** None of us can earn salvation through our own goodness or achievements.
-- **Jesus died and rose again.** Through His death and resurrection, He offers forgiveness and reconciliation with God.
-- **Salvation is a gift of grace.** We are saved through faith in Jesus Christ, not by earning our way to Him.
-- **We are invited to follow Him.** We can turn to God, trust in Christ, and grow in a life shaped by His Word and grace.
+- **God loves us.** He created us for a relationship with Him.
+- **We have all sinned.** We cannot earn our salvation through our own goodness.
+- **Jesus died and rose again.** Through Him, forgiveness and reconciliation with God are offered to us.
+- **Salvation is a gift of grace.** We are saved through faith in Jesus Christ, not through our achievements.
+- **We are invited to follow Him.** We can turn to God, trust in Christ, and grow in a life shaped by His Word.
 
 > "For the wages of sin is death, but the free gift of God is eternal life through Christ Jesus our Lord."
 >
 > — Romans 6:23, NLT
 
-If you don't know Jesus, you're welcome to explore the Bible, ask questions, and learn about Him. You don't need to have every question answered before you begin seeking God.
+If you're curious about Jesus, you're welcome to explore Scripture, ask questions, and learn about Him. You don't have to pretend to have everything figured out before you start seeking God.
 
-My hope is that this little corner of the internet points beyond me and toward Jesus Christ.
+**Soli Deo Gloria — Glory to God alone.**
 
-## 🏺 `05. THE ARTIFACT COLLECTION`
+---
 
-Every project is a little discovery — an opportunity to learn, solve problems, and grow as a developer.
+## 🏺 `05 // THE ARTIFACT COLLECTION`
 
-### 🌿 Flutter Period Tracker
+*Every project is a discovery. Every challenge is a chance to learn.*
 
-A personal application project for exploring mobile development and local data storage.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Exploring:** Dart, Flutter, and Hive.
-- **Focus:** Learning how to structure an application and persist data locally.
-- **Status:** Learning project.
+### 🌊 Disaster Risk Profiler
 
-[View my repositories](https://github.com/mirandairene777?tab=repositories) · Replace with the project's direct repository link when published.
+A project focused on organizing household and resident information for barangay disaster risk profiling.
 
-### 🎮 Unity Game Development
+**Exploring**
+- Python
+- MySQL
+- Desktop application development
+- Database design
 
-A hands-on journey into game development, where I explore how gameplay systems, character movement, and animation come together.
+[Project repository — add link when available](#)
 
-- **Exploring:** Unity, C#, game mechanics, and 3D development.
-- **Focus:** Learning by building and experimenting with interactive experiences.
-- **Status:** Game development experiments.
+</td>
+<td width="50%" valign="top">
 
-[View my repositories](https://github.com/mirandairene777?tab=repositories) · Replace with the project's direct repository link when published.
+### 🌿 Flo Tracker
 
-## 🧰 `06. MY EXPLORER'S TOOLKIT`
+A Flutter application project developed with teammates, currently under construction.
 
-These are technologies and tools I've been learning and working with.
+**Exploring**
+- Dart and Flutter
+- Application development
+- Local data storage
+
+[Explore Flo Tracker →](https://github.com/mirandairene777/flo-tracker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ LSPU Campus Navigator
+
+A campus navigation project built with Flutter, designed to help users explore campus locations and find facilities.
+
+**Features described in the project README**
+- Interactive campus map
+- Search and category filtering
+- Responsive layouts
+
+[Explore Campus Navigator →](https://github.com/mirandairene777/LSPU-NAVIGATION-CAMPUS)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Uncanny — Unity Game
+
+A collaborative 3D Unity game project.
+
+**Exploring**
+- Unity
+- C#
+- 3D game development
+
+[Explore the team repository →](https://github.com/matcha-jillyace/Uncanny)
+
+</td>
+</tr>
+</table>
+
+## 🧰 `06 // THE EXPLORER'S TOOLKIT`
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -137,9 +181,11 @@ These are technologies and tools I've been learning and working with.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
 
-*Still learning. Still exploring. Still building.*
+</div>
 
-## 🗺️ `07. EXPEDITION LOG`
+*Tools I'm learning and using along the way — always a work in progress.*
+
+## 🗺️ `07 // EXPEDITION LOG`
 
 <div align="center">
 
@@ -149,17 +195,17 @@ These are technologies and tools I've been learning and working with.
 
 </div>
 
-## 🌱 `08. UNEXPLORED TERRITORIES`
+## 🌿 `08 // UNEXPLORED TERRITORIES`
 
-Things I hope to explore further:
+Future discoveries I'm excited to pursue:
 
 - Artificial intelligence and machine learning.
 - Web development and thoughtful user experiences.
 - Game development and interactive storytelling.
 - History, archaeology, and the preservation of knowledge.
-- Ways to use technology to help people and serve a greater purpose.
+- Technology that can help people and serve a greater purpose.
 
-Every unfinished project is another place to explore. Every challenge is another opportunity to learn.
+The journey is still unfolding. There's so much more to learn, build, and discover.
 
 ---
 
@@ -167,16 +213,16 @@ Every unfinished project is another place to explore. Every challenge is another
 
 ### ✦ SOLI DEO GLORIA ✦
 
-*Glory to God alone.*
+*For the glory of God alone.*
 
 **"Trust in the LORD with all your heart." — Proverbs 3:5, NLT**
 
-Thank you for visiting my little corner of the internet.
+Thank you for visiting my Field Journal.
 
-May whatever I learn, build, and become bring glory to Jesus Christ.
+May whatever I learn, create, and become bring glory to Jesus Christ.
 
-[Explore my GitHub](https://github.com/mirandairene777) · [Visit my website](https://irenemiranda.dev)
+[🌐 My Website](https://irenemiranda.dev) · [🗺️ Explore My Repositories](https://github.com/mirandairene777?tab=repositories)
 
-<sub>END OF FIELD JOURNAL // THE EXPEDITION CONTINUES</sub>
+`END OF FIELD NOTES // THE EXPEDITION CONTINUES`
 
 </div>
