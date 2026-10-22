@@ -34,7 +34,6 @@
 </p>
 
 <p align="center">
-  “Trust in the LORD with all your heart...”
   <br />
   Proverbs 3:5–6 (NLT)
 </p>
