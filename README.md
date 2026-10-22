@@ -34,7 +34,6 @@
 </p>
 
 <p align="center">
-  <br />
   Proverbs 3:5–6 (NLT)
 </p>
 ---
