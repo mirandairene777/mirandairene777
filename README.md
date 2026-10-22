@@ -104,16 +104,6 @@ My hope is that this little corner of the internet points beyond me and toward J
 
 Every project is a little discovery — an opportunity to learn, solve problems, and grow as a developer.
 
-### 🌊 Barangay Disaster Risk Profiler
-
-A disaster risk profiling project designed to organize household and resident information relevant to barangay disaster preparedness.
-
-- **Exploring:** Python, MySQL, database design, and desktop UI development.
-- **Focus:** Organizing disaster-related data and supporting risk profiling.
-- **Status:** Academic project.
-
-[View my repositories](https://github.com/mirandairene777?tab=repositories) · Replace with the project's direct repository link when published.
-
 ### 🌿 Flutter Period Tracker
 
 A personal application project for exploring mobile development and local data storage.
